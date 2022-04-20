@@ -4,6 +4,10 @@ function helloWorld() {
 }
 
 //sayHello function
-function sayHello(){
-    return "sayHello";
+function sayHello(Jane){
+    return "sayHello" + "Jane!";
+}
+//Exercise 4
+function helloAlex(){
+    return "Hello, Alex!";
 }
